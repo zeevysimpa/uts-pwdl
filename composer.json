@@ -1,0 +1,17 @@
+{
+    "name": "zeviys/uts",
+    "description": "Ujian Tengah Semester Pemograman Web Lanjutan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Zeviys\\Uts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zevi Yarti Simpa",
+            "email": "zeviys@gmail.com"
+        }
+    ],
+    "require": {}
+}
